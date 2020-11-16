@@ -1,0 +1,215 @@
+/*
+This file contains CSS definitions for all the Maemo desktop theme colors and fonts.
+Theme Name   : Maemo-org Theme
+Installed in : @CSS_FULL_DIR@
+*/
+
+/* COLORS */
+
+/* Normal Text Colors */
+.DefaultTextColor {
+  color: #ffffff;
+}
+.SecondaryTextColor {
+  color: #ee6100;
+}
+.ActiveTextColor {
+  color: #ee6100;
+}
+.DisabledTextColor {
+  color: #ffffff;
+}
+.PaintedTextColor {
+  color: #000000;
+}
+
+/* Reversed Text Colors */
+.ReversedTextColor {
+  color: #ee6100;
+}
+.ReversedSecondaryTextColor {
+  color: #ffffff;
+}
+.ReversedActiveTextColor {
+  color: #fa9000;
+}
+.ReversedDisabledTextColor {
+  color: #ffffff;
+}
+.ReversedPaintedTextColor {
+  color: #000000;
+}
+
+/* Background colors */
+.DefaultBackgroundColor {
+  background: #424345;
+}
+.DarkerBackgroundColor {
+  background: #101010;
+}
+.ReversedBackgroundColor {
+  background: #000000;
+}
+
+/* Selections */
+.SelectionColor {
+  color: #fa9000;
+}
+.ReversedSelectionColor {
+  color: #ee6100;
+}
+
+/* Media colors */
+.ContentBackgroundColor {
+  background: #000000;
+}
+.ContentFrameColor {
+  background: #000000;
+}
+.ContentSelectionColor {
+  background: #ffffff;
+}
+
+/* Framework stuff */
+.TitleTextColor {
+  color: #ffffff;
+}
+.ButtonTextColor {
+  color: #ffffff;
+}
+.ButtonTextPressedColor {
+  color: #ffffff;
+}
+.ButtonTextDisabledColor {
+  color: #8c8c8c;
+}
+
+/* Crayons */
+.AccentColor1 {
+  color: #ee6100;
+}
+
+.AccentColor2 {
+  color: #ee6100;
+}
+
+.AccentColor3 {
+  color: #fa9000;
+}
+
+.AttentionColor {
+  color: #ff1919;
+}
+
+/* Notification Colors */
+.NotificationBackgroundColor {
+  color: #589cf8;
+}
+
+.NotificationTextColor {
+  color: #010b18;
+}
+
+.NotificationSecondaryTextColor {
+  color: #03234a;
+}
+
+/* Messaging UI specific colours */
+.MessagingViewBackgroundColor {
+  background-color: #383838;
+}
+.MessagingBubbleSelfBackgroundColor {
+  background-color: #282828;
+}
+.MessagingBubbleOtherBackgroundColor {
+  background-color: #101010;
+}
+.MessagingBubbleClickedBackgroundColor {
+  background-color: #aaff55;
+}
+.MessagingBubbleBorderColor {
+  border-color: #535353;
+}
+.MessagingAvatarBorderColor {
+  border-color: #bababa;
+}
+.MessagingAvatarBorderMaskColor {
+  outline-color: #424345;
+}
+
+
+a:link {
+  color: #ee6100;
+}
+
+
+/* FONTS */
+
+/* legacy */
+
+.osso-SystemFont {
+	font: 18px "Nokia Sans"
+}
+
+.osso-EmpSystemFont {
+	font: bold 18px "Nokia Sans"
+}
+
+.osso-LargeFont {
+	font: 26px "Nokia Sans"
+}
+
+.osso-SmallFont {
+	font: 13px "Nokia Sans"
+}
+
+.osso-HWRFont1 {
+  font: 52px "Nokia Sans"
+}
+
+.osso-HWRFont2 {
+  font: 38px "Nokia Sans"
+}
+
+.osso-TitleFont {
+	font: 18px "Nokia Sans"
+}
+
+.osso-ButtonFont {
+	font: 18px "Nokia Sans"
+}
+
+/* new fonts for fremantle */
+
+.SystemFont {
+	font: 24px "Nokia Sans"
+}
+
+.EmpSystemFont {
+	font: bold 24px "Nokia Sans"
+}
+
+.LargeSystemFont {
+	font: 35px "Nokia Sans"
+}
+
+.SmallSystemFont {
+	font: 18px "Nokia Sans"
+}
+
+.EmpSmallSystemFont {
+	font: bold 18px "Nokia Sans"
+}
+
+.X-LargeSystemFont {
+	font: 42px "Nokia Sans"
+}
+
+.XX-LargeSystemFont {
+	font: 70px "Nokia Sans"
+}
+
+.XXX-LargeSystemFont {
+	font: 100px "Nokia Sans"
+}
+
