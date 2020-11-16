@@ -1,11 +1,11 @@
-Source: maemo-org
+Source: hildon-theme-maemo-org
 Section: user/desktop
 Priority: extra
 Maintainer: Andrew Black <andrewfblack@gmail.com>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
-Package: maemo-org
+Package: hildon-theme-maemo-org
 Architecture: all
 Depends: gtk2-engines-sapwood, hildon-theme-cacher
 Description: A Maemo.org Based Hildon Theme

@@ -1,4 +1,10 @@
-maemo-org (2.0.1-9) stable; urgency=low
+hildon-theme-maemo-org (2.1.0-1) stable; urgency=low
+
+  Initial Maemo Leste import
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Mon, 16 Nov 2020 23:04:07 +0100
+
+hildon-theme-maemo-org (2.0.1-9) stable; urgency=low
 
   Updated for PR 1.2, New icon set, and More.
 
